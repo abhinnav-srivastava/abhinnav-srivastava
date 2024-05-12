@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Abhinav  
+- 👀 I’m interested in developing stuff  
+- 🌱 I’m currently learning everything and anything
+- 💞️ I’m looking to collaborate on automotive engineering
+- 📫 reach me at abhinnav.srivastava@gmail.com   
+- ⚡ Fun fact: I tried to develop an OS at a point in time.
